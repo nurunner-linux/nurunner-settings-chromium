@@ -1,0 +1,42 @@
+{
+   "checksum": "00c69df0ba781ff09a348532436c48e0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13122271311873271",
+            "id": "6",
+            "name": "Nurunner Linux",
+            "type": "url",
+            "url": "https://nurunner.org/"
+         }, {
+            "date_added": "13122271408000845",
+            "id": "9",
+            "name": "AUR (en) - Home",
+            "type": "url",
+            "url": "https://aur.archlinux.org/"
+         } ],
+         "date_added": "13122271246828287",
+         "date_modified": "13122271408000845",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13122271246828291",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13122271246828292",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
